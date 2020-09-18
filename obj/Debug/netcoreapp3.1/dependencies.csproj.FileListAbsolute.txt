@@ -1,0 +1,12 @@
+/Users/maciejdyminkiewicz/Development/dependencies/bin/Debug/netcoreapp3.1/dependencies.deps.json
+/Users/maciejdyminkiewicz/Development/dependencies/bin/Debug/netcoreapp3.1/dependencies.runtimeconfig.json
+/Users/maciejdyminkiewicz/Development/dependencies/bin/Debug/netcoreapp3.1/dependencies.runtimeconfig.dev.json
+/Users/maciejdyminkiewicz/Development/dependencies/bin/Debug/netcoreapp3.1/dependencies.dll
+/Users/maciejdyminkiewicz/Development/dependencies/bin/Debug/netcoreapp3.1/dependencies.pdb
+/Users/maciejdyminkiewicz/Development/dependencies/obj/Debug/netcoreapp3.1/dependencies.csprojAssemblyReference.cache
+/Users/maciejdyminkiewicz/Development/dependencies/obj/Debug/netcoreapp3.1/dependencies.AssemblyInfoInputs.cache
+/Users/maciejdyminkiewicz/Development/dependencies/obj/Debug/netcoreapp3.1/dependencies.AssemblyInfo.cs
+/Users/maciejdyminkiewicz/Development/dependencies/obj/Debug/netcoreapp3.1/dependencies.csproj.CoreCompileInputs.cache
+/Users/maciejdyminkiewicz/Development/dependencies/obj/Debug/netcoreapp3.1/dependencies.dll
+/Users/maciejdyminkiewicz/Development/dependencies/obj/Debug/netcoreapp3.1/dependencies.pdb
+/Users/maciejdyminkiewicz/Development/dependencies/obj/Debug/netcoreapp3.1/dependencies.genruntimeconfig.cache
